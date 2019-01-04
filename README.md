@@ -1,2 +1,2 @@
 # baekjoon
-  Problem source code : C++/C
+  Problem source code : C/C++
